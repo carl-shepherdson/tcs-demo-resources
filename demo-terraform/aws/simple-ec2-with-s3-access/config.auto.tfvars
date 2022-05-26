@@ -1,6 +1,6 @@
 
 instance_type = "t2.nano"
-default_aws_region = "eu-west-1"
+default_aws_region = "ap-southeast-1"
 
 ## Default tags
 default_tags = {
